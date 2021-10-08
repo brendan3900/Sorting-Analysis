@@ -1,5 +1,5 @@
-//Brendan Li NUID: 001386816
-//Homework 4 | EECE2560
+//Brendan Li
+
 #include <iostream>
 #include <fstream>
 #include <chrono>
